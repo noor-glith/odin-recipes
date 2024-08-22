@@ -1,0 +1,47 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    background-image: url(main.jpeg);
+  background-repeat: no-repeat;
+    /* height: 100%;
+    width:100%; */
+}
+header{
+display: flex;
+
+}
+h1{
+
+    height: 100vh;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 900;
+    background-image: url(cover\ copy.jpg);
+    background-position: center ;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color:transparent
+}
+li,a{
+    text-decoration: none;
+    outline: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    list-style: none;
+    color: white;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+}
+a:hover{
+    color:#0088a9;
+}
+
+
+
+
+
+
