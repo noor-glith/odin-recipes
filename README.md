@@ -1,10 +1,10 @@
-##Odin HTML Recipe Challenge
+#Odin HTML Recipe Challenge
 
 **Overview**
 
 In this challenge, you will create a simple recipe website using HTML, demonstrating your understanding of basic web development concepts. The website will display a recipe with ingredients, instructions, and additional information.
 
-Requirements
+***Requirements***
 
 - Create an HTML file named index.html
 - Use semantic HTML elements to structure the content
