@@ -25,7 +25,7 @@ Choose a simple recipe, such as:
 - Spaghetti with Tomato Sauce
 - Fried Rice
 
-Submission
+
 
 - Share your index.html file on GitHub
 - Include a brief description of your project and any challenges you faced
