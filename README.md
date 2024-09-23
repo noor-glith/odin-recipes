@@ -26,6 +26,7 @@ Choose a simple recipe, such as:
 - Fried Rice
 
 
+SUBMISSION
 
 - Share your index.html file on GitHub
 - Include a brief description of your project and any challenges you faced
