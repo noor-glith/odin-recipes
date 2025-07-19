@@ -38,11 +38,6 @@ Learning Objectives
 - Practice using HTML attributes and values
 - Showcase attention to detail and coding best practices
 
-Resources
-
-- Odin Project's HTML lessons: (link unavailable)
-- Mozilla Developer Network (MDN) documentation: (link unavailable)
-
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
