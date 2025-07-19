@@ -14,8 +14,7 @@ In this challenge, you will create a simple recipe website using HTML, demonstra
     - Instructions list
     - Servings and cooking time information
     - Optional: images, links, or other additional content
-- Use proper indentation, spacing, and formatting for readability
-- Validate your HTML code using an online validator
+
 
 Example Recipe
 
